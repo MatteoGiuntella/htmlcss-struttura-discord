@@ -74,3 +74,17 @@ body{
     background-color: pink;
     width: 40%;
 }
+#section4{
+    background-color: darkslategray;
+    min-height: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box-green{
+    min-width: 800px;
+    min-height: 600px;
+    background-color: green;
+
+}
+/* footer */
