@@ -121,3 +121,21 @@ body{
 .footer-background-color-bottom{
     border-top: 1px solid white;
 }
+.container-bottom-footer{
+    min-height: 80px;
+    min-width: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+.bottom-footer{
+    min-width: 600px;
+    min-height: 50px;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.bottone-footer, .logo-footer{
+    background-color: coral;
+}
