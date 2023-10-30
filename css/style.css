@@ -15,7 +15,6 @@
 body{
     width: auto;
 }
-
 /* header top*/
 .header-background-color-top{
     background-color: aquamarine;
@@ -91,7 +90,7 @@ body{
     background-color: green;
 
 }
-/* footer */
+/* footer-top */
 .footer-background-color-top,
 .footer-background-color-bottom{
     background-color: black;
@@ -117,7 +116,7 @@ body{
     background-color: lightgreen;
     border: 1px solid white;
 }
-
+/* footer-bottom */
 .footer-background-color-bottom{
     border-top: 1px solid white;
 }
