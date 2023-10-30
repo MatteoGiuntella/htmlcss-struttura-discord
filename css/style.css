@@ -3,9 +3,46 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    border: 1px dashed black;
 }
 /* general */
-.container{
-    width: 1200px;
+
+
+
+/* debug */
+.debug{
+    min-height: 300px;
+}
+/* header top*/
+.header-background-color-top{
+    background-color: aquamarine;
+}
+.container-header-top{
+    width: 800px;
     margin: auto;
 }
+.header-top-info{
+    display: flex;
+    min-height: 50px;
+    justify-content: center;
+    align-items: center;
+}
+.logo ,.link ,.login{    
+    color: black;
+    background-color: goldenrod;
+} 
+.logo, .login{
+    width: 25%;
+}
+.link{
+    width: 65%;
+    justify-content: center;
+}
+.login, .link{
+    display: flex;
+}
+.login{
+    justify-content: flex-end;
+}
+/* header-bottom */
+
