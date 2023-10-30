@@ -10,8 +10,8 @@
 
 
 /* debug */
-.debug{
-    min-height: 300px;
+.heigth{
+    min-height: 400px;
 }
 /* header top*/
 .header-background-color-top{
@@ -46,3 +46,14 @@
 }
 /* header-bottom */
 
+.header-background-color-bottom{
+    background-color: blue; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box-pink{
+   min-width: 600px;
+   min-height: 300px;
+   background-color: darksalmon;
+}
