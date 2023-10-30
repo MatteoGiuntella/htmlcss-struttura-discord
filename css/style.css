@@ -66,6 +66,9 @@ body{
     min-width: 800px;
     min-height: 300px;
 }
+#gray{
+    background-color: lightgray;
+}
 .block-blu{
     background-color: cornflowerblue;
     width: 60%;
@@ -75,7 +78,7 @@ body{
     width: 40%;
 }
 #section4{
-    background-color: darkslategray;
+    background-color: lightgray;
     min-height: 800px;
     display: flex;
     justify-content: center;
